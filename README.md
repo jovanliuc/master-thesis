@@ -1,1 +1,1 @@
-## This repo is for Master thesis
+## This repo is for Master Thesis
